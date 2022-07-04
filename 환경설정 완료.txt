@@ -1,0 +1,7 @@
+1. JDK 버전
+2. tomcat 버전
+3. Spring 버전
+4. Dynamcic web project 
+5. 오라클버전 드라이버
+6. 사용할 라이브러리 
+7. 관리할 기능의 폴더 생성 
